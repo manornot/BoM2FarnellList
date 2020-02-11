@@ -1,0 +1,11 @@
+Description;Footprint;Quantity;Value;Type;PackageDescription;DesignItemId
+Resistor;AXIAL-0.3;2;1.5K;Res;THT;Resistor
+Resistor;AXIAL-0.3;2;2.2K;Res;THT;Resistor
+Resistor;AXIAL-0.3;5;10K;Res;THT;Resistor
+Capacitor;1206;1;100pF;Ceramic;SMD;Capacitor
+Capacitor;CAPR5-4X5;2;100pF;Electrolytic;THT;Capacitor
+Capacitor;CAPR5-4X5;2;200nF;Ceramic;THT;Capacitor
+4-Pin Phototransistor Optocoupler;DIP-4;2;;Optoisolator1;;Optoisolator1
+1 Amp General Purpose Rectifier;DO-41;12;;Diode 1N4001;"Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)";Diode 1N4001
+Header, 3-Pin, Right Angle;HDR1X3H;1;;Header 3H;;Header 3H
+;LM358;1;;OpAmp;;LM358
